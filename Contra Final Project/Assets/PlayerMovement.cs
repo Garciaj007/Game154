@@ -1,5 +1,4 @@
 ﻿using UnityEngine;
-using System;
 
 [RequireComponent (typeof (SpriteRenderer))]
 [RequireComponent (typeof (Rigidbody2D))]
@@ -11,8 +10,11 @@ public class PlayerMovement : MonoBehaviour {
     private Animator anim;
 
     private float movement;
+    private float aim;
+
     private bool jump;
     private bool isGrounded = false;
+    private bool inWater = false;
 
     public float speed = 10.0f;
     public float jumpForce = 100.0f;
@@ -27,7 +29,17 @@ public class PlayerMovement : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
         movement = Input.GetAxis("Horizontal") * speed;
-        jump = Convert.ToBoolean(Input.GetAxis("Jump"));
+        aim += Input.GetAxis("Mouse Y") / 10;
+
+        Debug.Log(aim);
+
+        if (Input.GetKeyUp(KeyCode.Space))
+        {
+            jump = true;
+        } else
+        {
+            jump = false;
+        }
 
         if(movement < 0)
         {
@@ -37,9 +49,10 @@ public class PlayerMovement : MonoBehaviour {
             sp.flipX = false;
         }
 
-        anim.SetBool("Moving", movement != 0);
+        anim.SetBool("Moving", movement != 0 && !inWater);
         anim.SetBool("Jumping", jump && isGrounded);
-        Debug.Log(movement);
+        anim.SetBool("InWater", inWater);
+        anim.SetFloat("Aim", aim);
 	}
 
     void FixedUpdate()
@@ -49,24 +62,33 @@ public class PlayerMovement : MonoBehaviour {
         if (jump && isGrounded)
         {
             rigid.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+            jump = false;
         } 
-
-        
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if(collision.gameObject.tag == "Platform")
+        if(collision.gameObject.tag == "Platform" || collision.gameObject.tag == "Water")
         {
             isGrounded = true;
+        }
+
+        if (collision.gameObject.tag == "Water")
+        {
+            inWater = true;
         }
     }
 
     private void OnCollisionExit2D(Collision2D collision)
     {
-        if(collision.gameObject.tag == "Platform")
+        if(collision.gameObject.tag == "Platform" || collision.gameObject.tag == "Water")
         {
             isGrounded = false;
+        }
+
+        if (collision.gameObject.tag == "Water")
+        {
+            inWater = false;
         }
     }
 }
