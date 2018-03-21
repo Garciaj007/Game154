@@ -1,28 +1,58 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class PlayerController : MonoBehaviour {
 
     private Rigidbody2D rigid;
-    private Vector2 position;
+    private float _x;
+    [SerializeField]
+    private bool isGrounded = false;
+    [SerializeField]
+    private bool jump = false;
+
+    public float speed = 50.0f;
+    public float jumpForce = 10000.0f;
 
 	// Use this for initialization
 	void Start () {
         rigid = this.gameObject.GetComponent<Rigidbody2D>();
-        position.x = transform.position.x;
-        position.y = transform.position.y;
 	}
 	
 	// Update is called once per frame
-	void Update () {
-
-        float horizontalMovement = Input.GetAxis("Horizontal");
-        rigid.AddForce(new Vector2(horizontalMovement * 10, 0.0f), ForceMode2D.Impulse);
-
-        if (Input.GetButtonUp("Jump"))
+	void Update () { 
+        if (Input.GetKeyDown(KeyCode.Space))
         {
-            rigid.AddForce(Vector2.up * 10000);
+            jump = true;
+        } else
+        {
+            jump = false;
         }
+
+        _x = Input.GetAxis("Horizontal") * speed;
 	}
+
+    private void FixedUpdate()
+    {
+        if (jump == true && isGrounded == true)
+        {
+            rigid.AddForce(Vector2.up * jumpForce);
+        }
+
+        rigid.velocity = new Vector2(_x, rigid.velocity.y);
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if(collision.gameObject.tag == "Platform")
+        {
+            isGrounded = true;
+        }
+    }
+
+    private void OnCollisionExit2D(Collision2D col)
+    {
+        if(col.gameObject.tag == "Platform")
+        {
+            isGrounded = false;
+        }
+    }
 }
