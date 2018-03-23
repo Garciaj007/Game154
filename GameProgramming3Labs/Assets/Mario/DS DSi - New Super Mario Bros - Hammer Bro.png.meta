@@ -1,0 +1,1952 @@
+fileFormatVersion: 2
+guid: 599a554b836a35647b93877de1f3262d
+timeCreated: 1521778849
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DS DSi - New Super Mario Bros - Hammer Bro_0
+    21300002: DS DSi - New Super Mario Bros - Hammer Bro_1
+    21300004: DS DSi - New Super Mario Bros - Hammer Bro_2
+    21300006: DS DSi - New Super Mario Bros - Hammer Bro_3
+    21300008: DS DSi - New Super Mario Bros - Hammer Bro_4
+    21300010: DS DSi - New Super Mario Bros - Hammer Bro_5
+    21300012: DS DSi - New Super Mario Bros - Hammer Bro_6
+    21300014: DS DSi - New Super Mario Bros - Hammer Bro_7
+    21300016: DS DSi - New Super Mario Bros - Hammer Bro_8
+    21300018: DS DSi - New Super Mario Bros - Hammer Bro_9
+    21300020: DS DSi - New Super Mario Bros - Hammer Bro_10
+    21300022: DS DSi - New Super Mario Bros - Hammer Bro_11
+    21300024: DS DSi - New Super Mario Bros - Hammer Bro_12
+    21300026: DS DSi - New Super Mario Bros - Hammer Bro_13
+    21300028: DS DSi - New Super Mario Bros - Hammer Bro_14
+    21300030: DS DSi - New Super Mario Bros - Hammer Bro_15
+    21300032: DS DSi - New Super Mario Bros - Hammer Bro_16
+    21300034: DS DSi - New Super Mario Bros - Hammer Bro_17
+    21300036: DS DSi - New Super Mario Bros - Hammer Bro_18
+    21300038: DS DSi - New Super Mario Bros - Hammer Bro_19
+    21300040: DS DSi - New Super Mario Bros - Hammer Bro_20
+    21300042: DS DSi - New Super Mario Bros - Hammer Bro_21
+    21300044: DS DSi - New Super Mario Bros - Hammer Bro_22
+    21300046: DS DSi - New Super Mario Bros - Hammer Bro_23
+    21300048: DS DSi - New Super Mario Bros - Hammer Bro_24
+    21300050: DS DSi - New Super Mario Bros - Hammer Bro_27
+    21300052: DS DSi - New Super Mario Bros - Hammer Bro_28
+    21300054: DS DSi - New Super Mario Bros - Hammer Bro_29
+    21300056: DS DSi - New Super Mario Bros - Hammer Bro_30
+    21300058: DS DSi - New Super Mario Bros - Hammer Bro_31
+    21300060: DS DSi - New Super Mario Bros - Hammer Bro_32
+    21300062: DS DSi - New Super Mario Bros - Hammer Bro_33
+    21300064: DS DSi - New Super Mario Bros - Hammer Bro_34
+    21300066: DS DSi - New Super Mario Bros - Hammer Bro_35
+    21300068: DS DSi - New Super Mario Bros - Hammer Bro_36
+    21300070: DS DSi - New Super Mario Bros - Hammer Bro_37
+    21300072: DS DSi - New Super Mario Bros - Hammer Bro_38
+    21300074: DS DSi - New Super Mario Bros - Hammer Bro_39
+    21300076: DS DSi - New Super Mario Bros - Hammer Bro_40
+    21300078: DS DSi - New Super Mario Bros - Hammer Bro_41
+    21300080: DS DSi - New Super Mario Bros - Hammer Bro_42
+    21300082: DS DSi - New Super Mario Bros - Hammer Bro_43
+    21300084: DS DSi - New Super Mario Bros - Hammer Bro_44
+    21300086: DS DSi - New Super Mario Bros - Hammer Bro_45
+    21300088: DS DSi - New Super Mario Bros - Hammer Bro_46
+    21300090: DS DSi - New Super Mario Bros - Hammer Bro_47
+    21300092: DS DSi - New Super Mario Bros - Hammer Bro_48
+    21300094: DS DSi - New Super Mario Bros - Hammer Bro_49
+    21300096: DS DSi - New Super Mario Bros - Hammer Bro_50
+    21300098: DS DSi - New Super Mario Bros - Hammer Bro_51
+    21300100: DS DSi - New Super Mario Bros - Hammer Bro_52
+    21300102: DS DSi - New Super Mario Bros - Hammer Bro_53
+    21300104: DS DSi - New Super Mario Bros - Hammer Bro_65
+    21300106: DS DSi - New Super Mario Bros - Hammer Bro_66
+    21300108: DS DSi - New Super Mario Bros - Hammer Bro_67
+    21300110: DS DSi - New Super Mario Bros - Hammer Bro_68
+    21300112: DS DSi - New Super Mario Bros - Hammer Bro_69
+    21300114: DS DSi - New Super Mario Bros - Hammer Bro_70
+    21300116: DS DSi - New Super Mario Bros - Hammer Bro_71
+    21300118: DS DSi - New Super Mario Bros - Hammer Bro_72
+    21300120: DS DSi - New Super Mario Bros - Hammer Bro_73
+    21300122: DS DSi - New Super Mario Bros - Hammer Bro_74
+    21300124: DS DSi - New Super Mario Bros - Hammer Bro_75
+    21300126: DS DSi - New Super Mario Bros - Hammer Bro_76
+    21300128: DS DSi - New Super Mario Bros - Hammer Bro_77
+    21300130: DS DSi - New Super Mario Bros - Hammer Bro_78
+    21300132: DS DSi - New Super Mario Bros - Hammer Bro_79
+    21300134: DS DSi - New Super Mario Bros - Hammer Bro_80
+    21300136: DS DSi - New Super Mario Bros - Hammer Bro_86
+    21300138: DS DSi - New Super Mario Bros - Hammer Bro_87
+    21300140: DS DSi - New Super Mario Bros - Hammer Bro_88
+    21300142: DS DSi - New Super Mario Bros - Hammer Bro_89
+    21300144: DS DSi - New Super Mario Bros - Hammer Bro_90
+    21300146: DS DSi - New Super Mario Bros - Hammer Bro_91
+    21300148: DS DSi - New Super Mario Bros - Hammer Bro_92
+    21300150: DS DSi - New Super Mario Bros - Hammer Bro_93
+    21300152: DS DSi - New Super Mario Bros - Hammer Bro_94
+    21300154: DS DSi - New Super Mario Bros - Hammer Bro_95
+    21300156: DS DSi - New Super Mario Bros - Hammer Bro_96
+    21300158: DS DSi - New Super Mario Bros - Hammer Bro_97
+    21300160: DS DSi - New Super Mario Bros - Hammer Bro_98
+    21300162: DS DSi - New Super Mario Bros - Hammer Bro_99
+    21300164: DS DSi - New Super Mario Bros - Hammer Bro_100
+    21300166: DS DSi - New Super Mario Bros - Hammer Bro_101
+    21300168: DS DSi - New Super Mario Bros - Hammer Bro_102
+    21300170: DS DSi - New Super Mario Bros - Hammer Bro_103
+    21300172: DS DSi - New Super Mario Bros - Hammer Bro_104
+    21300174: DS DSi - New Super Mario Bros - Hammer Bro_105
+    21300176: DS DSi - New Super Mario Bros - Hammer Bro_106
+    21300178: DS DSi - New Super Mario Bros - Hammer Bro_107
+    21300180: DS DSi - New Super Mario Bros - Hammer Bro_108
+    21300182: DS DSi - New Super Mario Bros - Hammer Bro_109
+    21300184: DS DSi - New Super Mario Bros - Hammer Bro_110
+    21300186: DS DSi - New Super Mario Bros - Hammer Bro_111
+    21300188: DS DSi - New Super Mario Bros - Hammer Bro_112
+    21300190: DS DSi - New Super Mario Bros - Hammer Bro_113
+    21300192: DS DSi - New Super Mario Bros - Hammer Bro_114
+    21300194: DS DSi - New Super Mario Bros - Hammer Bro_115
+    21300196: DS DSi - New Super Mario Bros - Hammer Bro_116
+    21300198: DS DSi - New Super Mario Bros - Hammer Bro_117
+    21300200: DS DSi - New Super Mario Bros - Hammer Bro_126
+    21300202: DS DSi - New Super Mario Bros - Hammer Bro_128
+    21300204: DS DSi - New Super Mario Bros - Hammer Bro_129
+    21300206: DS DSi - New Super Mario Bros - Hammer Bro_130
+    21300208: DS DSi - New Super Mario Bros - Hammer Bro_131
+    21300210: DS DSi - New Super Mario Bros - Hammer Bro_132
+    21300212: DS DSi - New Super Mario Bros - Hammer Bro_133
+    21300214: DS DSi - New Super Mario Bros - Hammer Bro_134
+    21300216: DS DSi - New Super Mario Bros - Hammer Bro_135
+    21300218: DS DSi - New Super Mario Bros - Hammer Bro_136
+    21300220: DS DSi - New Super Mario Bros - Hammer Bro_137
+    21300222: DS DSi - New Super Mario Bros - Hammer Bro_138
+    21300224: DS DSi - New Super Mario Bros - Hammer Bro_139
+    21300226: DS DSi - New Super Mario Bros - Hammer Bro_140
+    21300228: DS DSi - New Super Mario Bros - Hammer Bro_141
+    21300230: DS DSi - New Super Mario Bros - Hammer Bro_142
+    21300232: DS DSi - New Super Mario Bros - Hammer Bro_143
+    21300234: DS DSi - New Super Mario Bros - Hammer Bro_144
+    21300236: DS DSi - New Super Mario Bros - Hammer Bro_145
+    21300238: DS DSi - New Super Mario Bros - Hammer Bro_146
+    21300240: DS DSi - New Super Mario Bros - Hammer Bro_147
+    21300242: DS DSi - New Super Mario Bros - Hammer Bro_148
+    21300244: DS DSi - New Super Mario Bros - Hammer Bro_149
+    21300246: DS DSi - New Super Mario Bros - Hammer Bro_150
+    21300248: DS DSi - New Super Mario Bros - Hammer Bro_151
+    21300250: DS DSi - New Super Mario Bros - Hammer Bro_152
+    21300252: DS DSi - New Super Mario Bros - Hammer Bro_153
+    21300254: DS DSi - New Super Mario Bros - Hammer Bro_154
+    21300256: DS DSi - New Super Mario Bros - Hammer Bro_155
+    21300258: DS DSi - New Super Mario Bros - Hammer Bro_156
+    21300260: DS DSi - New Super Mario Bros - Hammer Bro_157
+    21300262: DS DSi - New Super Mario Bros - Hammer Bro_158
+    21300264: DS DSi - New Super Mario Bros - Hammer Bro_163
+    21300266: DS DSi - New Super Mario Bros - Hammer Bro_164
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 330
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 330
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 330
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 330
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 330
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_5
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 330
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_6
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 330
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 330
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_8
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 330
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_9
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 330
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_10
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 330
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_11
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 330
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_12
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 330
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_13
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 330
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_14
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 330
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_15
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 330
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_16
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 330
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_17
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 330
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_18
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 330
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_19
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 330
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_20
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 330
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_21
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 330
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_22
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 330
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_23
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 330
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_24
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 330
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 278
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_28
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 278
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 278
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_30
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 278
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 278
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_32
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 278
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_33
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 278
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_34
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 278
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 278
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_36
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 278
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_37
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 278
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_38
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 278
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_39
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 278
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_40
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 278
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_41
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 278
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_42
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 278
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_43
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 278
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_44
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 278
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_45
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 278
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_46
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 278
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_47
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 278
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_48
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 278
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_49
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 278
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_50
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 278
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_51
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 278
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_52
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 278
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_53
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 278
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_65
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 258
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_66
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 258
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_67
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 258
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_68
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 258
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_69
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 258
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_70
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 258
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_71
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 258
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_72
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 258
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_73
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 258
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_74
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 258
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_75
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 258
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_76
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 258
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_77
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 258
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_78
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 258
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_79
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 258
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_80
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 258
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_86
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 238
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_87
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 238
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_88
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 238
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_89
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 238
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_90
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 238
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_91
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 238
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_92
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 238
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_93
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 238
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_94
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 238
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_95
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 238
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_96
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 238
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_97
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 238
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_98
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 238
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_99
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 238
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_100
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 238
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_101
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 238
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_102
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 198
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_103
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 198
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_104
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 198
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_105
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 198
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_106
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 198
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_107
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 198
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_108
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 198
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_109
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 198
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_110
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 198
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_111
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 198
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_112
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 198
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_113
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 198
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_114
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 198
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_115
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 198
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_116
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 198
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_117
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 198
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_126
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 221
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_128
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 146
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_129
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 175
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_130
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 146
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_131
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 146
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_132
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 176
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_133
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 146
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_134
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 177
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_135
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 146
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_136
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 147
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_137
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 176
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_138
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 147
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_139
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 147
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_140
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 147
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_141
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 147
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_142
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 147
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_143
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 147
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_144
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 147
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_145
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 147
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_146
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 147
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_147
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 147
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_148
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 147
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_149
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 147
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_150
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 147
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_151
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 147
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_152
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 147
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_153
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 147
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_154
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 147
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_155
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 147
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_156
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 147
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_157
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 147
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_158
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 147
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_163
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 172
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - New Super Mario Bros - Hammer Bro_164
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 170
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
