@@ -6,12 +6,16 @@ public abstract class MovementController : MonoBehaviour {
     public float jumpForce = 1000.0f;
 
     protected Rigidbody2D rigid;
+    protected Animator anim;
+    protected SpriteRenderer sp;
     protected bool isGrounded = false;
     protected bool jump = false;
 
     //Implemented Methods
-	void Start () {
+	protected void Start () {
         rigid = GetComponent<Rigidbody2D>();
+        anim = GetComponent<Animator>();
+        sp = GetComponent<SpriteRenderer>();
 	}
 
     protected void OnCollisionEnter2D(Collision2D collision)
