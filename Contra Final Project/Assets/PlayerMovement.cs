@@ -10,14 +10,15 @@ public class PlayerMovement : MonoBehaviour {
     private Animator anim;
 
     private float movement;
-    private float aim;
 
     private bool jump;
     private bool isGrounded = false;
     private bool inWater = false;
+    private bool aimUp = false;
 
     public float speed = 10.0f;
     public float jumpForce = 100.0f;
+    public float aim;
 
 	// Use this for initialization
 	void Start () {
@@ -41,6 +42,14 @@ public class PlayerMovement : MonoBehaviour {
             jump = false;
         }
 
+        if(aim >= 1 && movement == 0)
+        {
+            aimUp = true;
+        } else
+        {
+            aimUp = false;
+        }
+
         if(movement < 0)
         {
             sp.flipX = true;
@@ -52,6 +61,7 @@ public class PlayerMovement : MonoBehaviour {
         anim.SetBool("Moving", movement != 0 && !inWater);
         anim.SetBool("Jumping", jump && isGrounded);
         anim.SetBool("InWater", inWater);
+        anim.SetBool("AimUp", aimUp);
         anim.SetFloat("Aim", aim);
 	}
 
