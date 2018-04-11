@@ -10,6 +10,7 @@ public abstract class MovementController : MonoBehaviour {
     protected SpriteRenderer sp;
     protected bool isGrounded = false;
     protected bool jump = false;
+    protected bool facingRight = true;
 
     //Implemented Methods
 	protected void Start () {
@@ -32,6 +33,12 @@ public abstract class MovementController : MonoBehaviour {
         {
             isGrounded = false;
         }
+    }
+
+    protected void Invert()
+    {
+        facingRight = !facingRight;
+        sp.flipX = !facingRight;
     }
 
     //Abstract Methods

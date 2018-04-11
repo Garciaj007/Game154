@@ -6,13 +6,13 @@ public class Detector : Trigger2DListener {
 
     protected override void OnTriggerEnter2D(Collider2D other)
     {
-        if(other.gameObject.tag == "Player")
-        {
-            if(m_OnTriggerEnter != null)
-            {
-                m_OnTriggerEnter();
-            }
-        }
+        //if(other.gameObject.tag == "Player")
+        //{
+        //    if(m_OnTriggerEnter != null)
+        //    {
+        //        m_OnTriggerEnter();
+        //    }
+        //}
     }
 
     protected override void OnTriggerStay2D(Collider2D other)
@@ -28,12 +28,12 @@ public class Detector : Trigger2DListener {
 
     protected override void OnTriggerExit2D(Collider2D other)
     {
-        if (other.gameObject.tag == "Player")
-        {
-            if (m_OnTriggerExit != null)
-            {
-                m_OnTriggerExit();
-            }
-        }
+        //if (other.gameObject.tag == "Player")
+        //{
+        //    if (m_OnTriggerExit != null)
+        //    {
+        //        m_OnTriggerExit();
+        //    }
+        //}
     }
 }

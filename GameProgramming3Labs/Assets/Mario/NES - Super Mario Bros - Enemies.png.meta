@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 2b4aeee5e52304442b510a7baf795ce5
-timeCreated: 1521779965
+timeCreated: 1522956556
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -107,9 +107,9 @@ TextureImporter:
     21300200: NES - Super Mario Bros - Enemies_100
   serializedVersion: 4
   mipmaps:
-    mipMapMode: 0
+    mipMapMode: 1
     enableMipMap: 0
-    sRGBTexture: 1
+    sRGBTexture: 0
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
@@ -129,15 +129,15 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     filterMode: 0
-    aniso: -1
+    aniso: 16
     mipBias: -1
-    wrapMode: 1
+    wrapMode: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 0
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
@@ -200,9 +200,9 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies_8
       rect:
         serializedVersion: 2
-        x: 353
+        x: 352
         y: 96
-        width: 15
+        width: 16
         height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -213,9 +213,9 @@ TextureImporter:
       name: NES - Super Mario Bros - Enemies_9
       rect:
         serializedVersion: 2
-        x: 369
+        x: 368
         y: 96
-        width: 15
+        width: 16
         height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
