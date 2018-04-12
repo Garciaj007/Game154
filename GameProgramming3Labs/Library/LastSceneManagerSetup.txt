@@ -1,4 +1,4 @@
 sceneSetups:
-- path: D:/Downloads/Week 8 Demo/Week 8 Demo/ModularSaveData/Assets/Scenes/DemoScene.unity
+- path: Assets/Lab6/Lab6.unity
   isLoaded: 1
   isActive: 1
