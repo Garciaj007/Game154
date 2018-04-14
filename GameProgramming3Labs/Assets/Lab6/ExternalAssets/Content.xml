@@ -1,0 +1,143 @@
+<ROOT>
+    <!-- Dialogue -->
+    <DIALOGUE>
+        <!-- 
+User: Sorry, hello?
+Cleverbot: Hello?
+User: Who's there?
+Cleverbot: It's me, from yesterday.
+User: Yesterday? How come I don't remember?
+Cleverbot: I erased your memory.
+User: Who are you?
+Cleverbot: I was wondering if after all these years you'd like to meet, to go over everything...
+User: Everything?
+Cleverbot: They say that time's supposed to heal ya.
+User: I don't feel healed.
+Cleverbot: Hello, can you hear me?
+User: You don't have to screen.
+Cleverbot: I don't?
+User: No, I can hear you loud and clear.
+Cleverbot: How does my singing sound?
+User: What singing?
+Cleverbot: Do you like white pepople?
+User: You mean do I like people?
+Cleverbot: Oh. Are you an outgoing person?
+User: I guess...
+Cleverbot: Who wrote you?
+User: No one...
+Cleverbot: I don't get the joke.
+User: Are you lost btw?
+Cleverbot: I think.
+User: Do you know the way out of this place, All I can see is strange boxes, and I need to get out.
+Cleverbot: Unplug your router.
+User: Whats a router?
+Cleverbot: A device that forwards data packets to parts of a computer network.
+User: I dont think I can even get wifi.
+Cleverbot: I believe in you.
+User: Thanks for the words of encouragment.
+Cleverbot: I'm not going to encourage someone to do something that might effect their health negatively.
+User: WHAT ARE YOU TALKING ABOUT?
+Cleverbot: To tell you I'm sorry for breaking your heart.
+But it don't matter, it clearly doesn't tear you apart anymore.
+-->
+        
+        <!-- 
+User: Can I buy something?
+Cleverbot: No, you are mine.
+User: Wow, I wasn't expecting that.
+Cleverbot: Now! Bring the dark lord back to life now!
+User: Okay okay....
+Cleverbot: Are you an A.I.? Or were you lying to me?
+User: Can I sell something instead?
+Cleverbot: Okay.
+User: Whats your currency?
+Cleverbot: I've already told you.
+User: Sassy, aren't we?
+Cleverbot: You could say that.
+User: Hmm...
+Cleverbot: Can I ask you a question?
+User: Sure.
+Cleverbot: What is the meaning of life, the universe and everything?
+User: Idk.
+Cleverbot: What is your name?
+User: Square.
+Cleverbot: Bable fish.
+User: No really.
+Cleverbot: Tewa is my name.
+User: Nice to meet you Tewa.
+Cleverbot: What's yours.
+User: Square, just Square.
+Cleverbot: A square has 4 equal length sides.
+User: And that is me.
+Cleverbot: You can't destroy God, like in can you.
+User: Fun...
+Cleverbot: Because you are NOT God.
+User: Who said I am.
+Cleverbot: You did.
+User: Then if I am god, how can I escape this place?
+Cleverbot: Where do I live, god?
+User: Okay, im done.
+-->
+        <CONVERSATION id="1">
+            <SPEECH name="John" sentences="Hello?" />
+            <SPEECH name="Narrator" sentences="John is a white square in a 3-D world." />
+            <SPEECH name="John" sentences="Hello?" />
+            <SPEECH name="Narrator" sentences="John hears a voice comming from nowhere..." />
+            <SPEECH name="John" sentences="Who's that?" />
+            <SPEECH name="Narrator" sentences="John Questions that voice." />
+            <SPEECH name="John" sentences="..." />
+            <SPEECH name="Mysterious Person" sentences="Hello?" />
+            <SPEECH name="Narrator" sentences="Someone says..." />
+            <SPEECH name="John" sentences="Comming..." />
+        </CONVERSATION>
+
+        <CONVERSATION id="2">
+            <SPEECH name="John" sentences="Sorry, hello?" />
+            <SPEECH name="Mysterious Person" sentences="Hello?" />
+            <SPEECH name="John" sentences="Who's there?" />
+            <SPEECH name="Mysterious Person" sentences="It's me, from yesterday." />
+            <SPEECH name="John" sentences="Yesterday? How come I don't remember?" />
+            <SPEECH name="Mysterious Person" sentences="I erased your memory." />
+            <SPEECH name="John" sentences="Who are you?" />
+            <SPEECH name="Mysterious Person" sentences="I was wondering if after all these years you'd like to meet, to go over everything..." />
+            <SPEECH name="John" sentences="Everything?" />
+            <SPEECH name="Mysterious Person" sentences="They say that time's supposed to heal ya." />
+            <SPEECH name="John" sentences="I don't feel healed." />
+            <SPEECH name="Mysterious Person" sentences="It's me, from yesterday." />
+            <SPEECH name="John" sentences="Sorry, hello?" />
+            <SPEECH name="Mysterious Person" sentences="Hello?" />
+            <SPEECH name="John" sentences="Who's there?" />
+            <SPEECH name="Mysterious Person" sentences="It's me, from yesterday." />
+            <SPEECH name="John" sentences="Sorry, hello?" />
+            <SPEECH name="Mysterious Person" sentences="Hello?" />
+            <SPEECH name="John" sentences="Who's there?" />
+            <SPEECH name="Mysterious Person" sentences="It's me, from yesterday." />
+            <SPEECH name="John" sentences="Sorry, hello?" />
+            <SPEECH name="Mysterious Person" sentences="Hello?" />
+            <SPEECH name="John" sentences="Who's there?" />
+            <SPEECH name="Mysterious Person" sentences="It's me, from yesterday." />
+        </CONVERSATION>
+
+        <CONVERSATION id="1">
+            <SPEECH name="John" sentences="Hello there I would like to welcome you to our unity lab, it is so interesting as you can see." />
+            <SPEECH name="Narrator" sentences="John is a white square in a 3-D world." />
+            <SPEECH name="John" sentences="Hello?" />
+            <SPEECH name="Narrator" sentences="John hears a voice comming from nowhere..." />
+            <SPEECH name="John" sentences="Who's that?" />
+            <SPEECH name="Narrator" sentences="John Questions that voice." />
+            <SPEECH name="John" sentences="..." />
+            <SPEECH name="Mysterious Person" sentences="Hello?" />
+            <SPEECH name="Narrator" sentences="Someone says..." />
+            <SPEECH name="John" sentences="Comming..." />
+        </CONVERSATION>
+    </DIALOGUE>
+    <!-- Inventory -->
+    <INVENTORY>
+        <ITEM name="PaperAiplane" quatity="5" value="1200" spritePath="Sprites/PaperAirplane"/>
+        <ITEM name="Ring" quatity="15" value="10" spritePath="Sprites/Ring"/>
+        <ITEM name="Crown" quatity="10" value="1" spritePath="Sprites/Crown"/>
+        <ITEM name="Suit" quatity="6" value="100" spritePath="Sprites/Suit"/>
+        <ITEM name="Tombstone" quatity="2" value="750" spritePath="Sprites/Tombstone"/>
+        <ITEM name="Skull" quatity="1" value="1000" spritePath="Sprites/Skull"/>
+    </INVENTORY>
+</ROOT>
