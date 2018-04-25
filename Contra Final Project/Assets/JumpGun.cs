@@ -8,6 +8,6 @@ public class JumpGun : Enemy {
     {
         base.PlayerStayDetector();
 
-        anim.SetInteger("Aim", (int) direction.y);
+        //anim.SetInteger("Aim", (int) direction.y);
     }
 }

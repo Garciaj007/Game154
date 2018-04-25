@@ -35,14 +35,6 @@ public class PlayerMovement : MonoBehaviour
         aim = Input.GetAxis("Vertical");
         jump = Input.GetKeyDown(KeyCode.Space);
 
-        rigid.velocity = new Vector2(movement * speed, rigid.velocity.y);
-
-        if (jump && isGrounded)
-        {
-            rigid.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
-            jump = false;
-        }
-
         if (aim >= 1 && movement == 0)
         {
             aimUp = true;
@@ -66,6 +58,17 @@ public class PlayerMovement : MonoBehaviour
         anim.SetBool("InWater", inWater);
         anim.SetBool("AimUp", aimUp);
         anim.SetFloat("Aim", aim);
+    }
+
+    private void FixedUpdate()
+    {
+        rigid.velocity = new Vector2(movement * speed, rigid.velocity.y);
+
+        if (jump && isGrounded)
+        {
+            rigid.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+            jump = false;
+        }
     }
 
 

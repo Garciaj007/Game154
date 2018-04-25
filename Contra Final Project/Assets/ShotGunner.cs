@@ -8,6 +8,6 @@ public class ShotGunner : Enemy {
     {
         base.PlayerEnterDetector();
 
-        anim.SetInteger("Aim", (int) direction.y);
+        //anim.SetInteger("Aim", (int) direction.y);
     }
 }

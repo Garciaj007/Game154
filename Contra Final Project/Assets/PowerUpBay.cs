@@ -5,7 +5,7 @@ using UnityEngine;
 public class PowerUpBay : MonoBehaviour {
 
     public Detector detector;
-    public Animation Explosion;
+    //public Animation Explosion;
 
     private Animator anim;
 
@@ -35,10 +35,12 @@ public class PowerUpBay : MonoBehaviour {
     public void OnDestroy()
     {
         anim.SetBool("Shot", true);
-        float time = anim.GetCurrentAnimatorStateInfo(0).length + Time.time;
-        if (Time.time > time)
-        {
-            Destroy(this.gameObject);
-        }
+        //float time = anim.GetCurrentAnimatorStateInfo(0).length + Time.time;
+        //if (Time.time > time)
+        //{
+        //    Destroy(this.gameObject);
+        //}
+        Debug.Log("Explosion.....");
+        Destroy(this.gameObject);
     }
 }

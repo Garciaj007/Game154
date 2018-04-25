@@ -28,4 +28,12 @@ public class Bullet : MonoBehaviour {
             collision.gameObject.GetComponent<Enemy>().OnDestroy();
         }
     }
+
+    protected void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.gameObject.tag = "Entities" || collision.gameObject.tag == "Enemy")
+        {
+            collision.gameObject
+        }
+    }
 }

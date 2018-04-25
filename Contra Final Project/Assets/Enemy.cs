@@ -4,16 +4,16 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour {
 
-    public Animation Explode;
+    //public Animation Explode;
     public Detector detector;
     public GameObject player;
-    public Transform gunBarrel;
+    //public Transform gunBarrel;
     public Bullet smallBullet;
 
     public float fireRate = 3.0f;
     public float speed = 10.0f;
 
-    protected Animator anim;
+    //protected Animator anim;
     protected Vector3 direction;
     protected float totalTime;
     protected bool shoot;
@@ -24,12 +24,14 @@ public class Enemy : MonoBehaviour {
         detector.OnStayListener = PlayerStayDetector;
         detector.OnExitListener = PlayerExitDetector;
 
-        anim = GetComponent<Animator>();
+        player = GameObject.FindGameObjectWithTag("Player");
 
-        if(GetComponents<Transform>()[1] != null)
-        {
-            gunBarrel = GetComponents<Transform>()[1];
-        }
+        //anim = GetComponent<Animator>();
+
+        //if(GetComponents<Transform>()[1] != null)
+        //{
+        //    gunBarrel = GetComponents<Transform>()[1];
+        //}
 
         totalTime = Time.time + fireRate;
 	}
@@ -41,8 +43,8 @@ public class Enemy : MonoBehaviour {
 
     public void OnDestroy()
     {
-        Animation ex = Instantiate<Animation>(Explode, transform.position, Quaternion.identity);
-        ex.Play();
+        //Animation ex = Instantiate<Animation>(Explode, transform.position, Quaternion.identity);
+        //ex.Play();
         Destroy(this.gameObject);
     }
 
@@ -54,12 +56,12 @@ public class Enemy : MonoBehaviour {
     protected void PlayerStayDetector()
     {
         //aim and shoot at the player
-        direction = this.transform.position - player.transform.position;
+        direction = player.transform.position - this.transform.position;
         direction = direction / direction.magnitude;
 
         if(Time.time >= totalTime)
         {
-            Bullet bullet = Instantiate(smallBullet, gunBarrel.position, Quaternion.identity);
+            Bullet bullet = Instantiate(smallBullet, this.transform.position, Quaternion.identity);
             bullet.speed = speed * direction;
             totalTime = Time.time + fireRate;
         }

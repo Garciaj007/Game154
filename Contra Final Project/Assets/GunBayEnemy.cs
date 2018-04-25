@@ -9,21 +9,21 @@ public class GunBayEnemy : Enemy {
     {
         base.PlayerEnterDetector();
 
-        anim.SetBool("Open", true);
+        //anim.SetBool("Open", true);
     }
 
     protected void PlayerStayDetector()
     {
         base.PlayerStayDetector();
 
-        anim.SetFloat("X", direction.x);
-        anim.SetFloat("Y", direction.y);
+        //anim.SetFloat("X", direction.x);
+        //anim.SetFloat("Y", direction.y);
     }
 
     protected void PlayerExitDetector()
     {
         base.PlayerExitDetector();
 
-        anim.SetBool("Open", false);
+        //anim.SetBool("Open", false);
     }
 }

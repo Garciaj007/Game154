@@ -8,13 +8,13 @@ public class BushEnemy : Enemy {
     {
         base.PlayerEnterDetector();
 
-        anim.SetBool("Fire", true);
+        //anim.SetBool("Fire", true);
     }
 
     protected void PlayerExitDetector()
     {
         base.PlayerExitDetector();
 
-        anim.SetBool("Fire", false);
+        //anim.SetBool("Fire", false);
     }
 }
