@@ -2,30 +2,48 @@
 
 public class Gun : MonoBehaviour {
 
-    public GameObject peaShoter;
+    public Bullet smallBullet;
+    public Bullet BigBullet;
+    public Transform gunBarrel;
 
-    [SerializeField]
+    public float speed;
+
     private bool shoot = false;
-    private Transform gunBarrel;
+    private PlayerMovement pm;
 
 	// Use this for initialization
 	void Start () {
-        gunBarrel = this.GetComponentInChildren<Transform>();
-	}
-	
-	// Update is called once per frame
-	void Update () {
-        if (shoot)
+        if (gameObject.GetComponentsInChildren<Transform>()[1] != null)
         {
-            Instantiate(peaShoter, gunBarrel);
-        }
-
-        if (Input.GetKeyDown(KeyCode.E))
-        {
-            shoot = true;
+            gunBarrel = gameObject.GetComponentsInChildren<Transform>()[1];
         } else
         {
-            shoot = false;
+            throw new MissingComponentException("There are no Transform components in Children: " + this.ToString());
         }
+        pm = GetComponent<PlayerMovement>();
+	}
+
+    private void Update()
+    {
+        shoot = Input.GetMouseButtonDown(0);
+    }
+
+    // Update is called once per frame
+    void LateUpdate () {
+        if (shoot)
+        {
+            if (pm.Flipped())
+            {
+                gunBarrel.position = new Vector3(gunBarrel.position.x - 20.0f, gunBarrel.position.y, gunBarrel.position.z);
+                Bullet bullet = Instantiate(smallBullet, gunBarrel.position, Quaternion.identity);
+                bullet.speed = speed * pm.AimDirection();
+                Debug.Log(speed * pm.AimDirection());
+            } else
+            {
+                Bullet bullet = Instantiate(smallBullet, gunBarrel.position, Quaternion.identity);
+                bullet.speed = speed * pm.AimDirection();
+                Debug.Log(speed * pm.AimDirection());
+            }   
+        }    
 	}
 }

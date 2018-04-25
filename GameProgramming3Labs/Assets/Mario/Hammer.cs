@@ -33,8 +33,6 @@ public class Hammer : MonoBehaviour {
         h_Throw.Set(x, y);
         h_Throw *= speed;
 
-        Debug.Log(h_Throw);
-
         rigid.isKinematic = false;
         rigid.AddForce(h_Throw, ForceMode2D.Impulse);
 

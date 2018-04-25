@@ -1,34 +1,31 @@
 ﻿using UnityEngine;
 
-public abstract class Bullet : MonoBehaviour {
+public class Bullet : MonoBehaviour {
 
     protected GameObject parent;
     protected SpriteRenderer sp;
-    protected Rigidbody2D rigid;
-    protected Rigidbody2D p_rigid;
-    protected float p_Aim;
 
-    public float speed = 10.0f;
+    public Vector2 speed = new Vector2(0.0f, 0.0f);
+
 
     // Use this for initialization
     protected void Start () {
-        rigid = GetComponent<Rigidbody2D>();
-        sp = GetComponent<SpriteRenderer>();
-
-        parent = GameObject.FindGameObjectWithTag("Player");
-
-        if(parent != null)
-        {
-            p_Aim = parent.GetComponent<PlayerMovement>().aim;
-            p_rigid = parent.GetComponent<Rigidbody2D>();
-
-            rigid.velocity = new Vector2(speed, rigid.velocity.y);
-        } else
-        {
-            Debug.LogWarning("Cannot Find Player .: Cannot move bullet");
-            Destroy(gameObject);
-        }
+      
 	}
 
-    protected abstract void OnTriggerEnter2D(Collider2D collision);
+    protected void Update()
+    {
+        Vector2 pos = transform.position;
+        pos.x += speed.x;
+        pos.y += speed.y;
+        transform.position = pos;
+    }
+
+    protected void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.gameObject.tag == "Enemy")
+        {
+            collision.gameObject.GetComponent<Enemy>().OnDestroy();
+        }
+    }
 }
