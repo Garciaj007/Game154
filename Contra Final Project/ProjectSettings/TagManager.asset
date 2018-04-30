@@ -7,6 +7,10 @@ TagManager:
   - Platform
   - Ground
   - Water
+  - Entities
+  - Enemy
+  - Bullet
+  - PowerUp
   layers:
   - Default
   - TransparentFX

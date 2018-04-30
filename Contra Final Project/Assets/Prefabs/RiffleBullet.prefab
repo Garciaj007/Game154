@@ -24,7 +24,7 @@ GameObject:
   - component: {fileID: 114625500709798464}
   m_Layer: 0
   m_Name: RiffleBullet
-  m_TagString: Untagged
+  m_TagString: Bullet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -69,6 +69,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: {x: 0, y: 0}
+  b_Name: PlayerBullet
 --- !u!212 &212265098644316772
 SpriteRenderer:
   m_ObjectHideFlags: 1
